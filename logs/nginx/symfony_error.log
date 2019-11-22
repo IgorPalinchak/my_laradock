@@ -1,0 +1,7 @@
+2019/10/16 20:49:32 [error] 11#11: *2 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught TypeError: Return value of Symfony\Component\Dotenv\Dotenv::populate() must be an instance of Symfony\Component\Dotenv\void, none returned in /var/www/sym.loc/vendor/symfony/dotenv/Dotenv.php:96
+Stack trace:
+#0 /var/www/sym.loc/vendor/symfony/dotenv/Dotenv.php(57): Symfony\Component\Dotenv\Dotenv->populate(Array)
+#1 /var/www/sym.loc/config/bootstrap.php(25): Symfony\Component\Dotenv\Dotenv->load('/var/www/sym.lo...')
+#2 /var/www/sym.loc/public/index.php(7): require('/var/www/sym.lo...')
+#3 {main}
+  thrown in /var/www/sym.loc/vendor/symfony/dotenv/Dotenv.php on line 96" while reading response header from upstream, client: 172.19.0.1, server: sym.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "sym.loc"

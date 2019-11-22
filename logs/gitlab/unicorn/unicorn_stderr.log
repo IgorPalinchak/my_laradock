@@ -1,0 +1,24 @@
+W, [2019-11-21T02:20:01.209489 #12583]  WARN -- : #<Unicorn::HttpServer:0x00007fccf23948d0>: worker (pid: 12583) exceeds memory limit (518905856.0 bytes > 495865666 bytes)
+W, [2019-11-21T02:20:01.209555 #12583]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 12583) alive: 7500 sec (trial 1)
+I, [2019-11-21T02:20:01.262987 #578]  INFO -- : reaped #<Process::Status: pid 12583 exit 0> worker=9
+I, [2019-11-21T02:20:01.425124 #27623]  INFO -- : worker=9 ready
+W, [2019-11-21T03:19:46.208858 #27623]  WARN -- : #<Unicorn::HttpServer:0x00007fccf23948d0>: worker (pid: 27623) exceeds memory limit (525443072.0 bytes > 495654773 bytes)
+W, [2019-11-21T03:19:46.208925 #27623]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 27623) alive: 3510 sec (trial 1)
+I, [2019-11-21T03:19:46.258777 #578]  INFO -- : reaped #<Process::Status: pid 27623 exit 0> worker=9
+I, [2019-11-21T03:19:46.424603 #2197]  INFO -- : worker=9 ready
+W, [2019-11-21T05:58:19.983301 #2197]  WARN -- : #<Unicorn::HttpServer:0x00007fccf23948d0>: worker (pid: 2197) exceeds memory limit (526827520.0 bytes > 516709041 bytes)
+W, [2019-11-21T05:58:19.983386 #2197]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 2197) alive: 9499 sec (trial 1)
+I, [2019-11-21T05:58:20.033222 #578]  INFO -- : reaped #<Process::Status: pid 2197 exit 0> worker=9
+I, [2019-11-21T05:58:20.253197 #20114]  INFO -- : worker=9 ready
+W, [2019-11-21T06:46:01.204435 #20114]  WARN -- : #<Unicorn::HttpServer:0x00007fccf23948d0>: worker (pid: 20114) exceeds memory limit (533012480.0 bytes > 453368726 bytes)
+W, [2019-11-21T06:46:01.204498 #20114]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 20114) alive: 2250 sec (trial 1)
+I, [2019-11-21T06:46:01.579264 #578]  INFO -- : reaped #<Process::Status: pid 20114 exit 0> worker=9
+I, [2019-11-21T06:46:01.736611 #25509]  INFO -- : worker=9 ready
+W, [2019-11-21T07:29:10.345018 #25509]  WARN -- : #<Unicorn::HttpServer:0x00007fccf23948d0>: worker (pid: 25509) exceeds memory limit (550019072.0 bytes > 519265164 bytes)
+W, [2019-11-21T07:29:10.345110 #25509]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 25509) alive: 2483 sec (trial 1)
+I, [2019-11-21T07:29:10.394869 #578]  INFO -- : reaped #<Process::Status: pid 25509 exit 0> worker=9
+I, [2019-11-21T07:29:10.561560 #30378]  INFO -- : worker=9 ready
+W, [2019-11-21T08:26:31.192294 #30378]  WARN -- : #<Unicorn::HttpServer:0x00007fccf23948d0>: worker (pid: 30378) exceeds memory limit (493981696.0 bytes > 441241638 bytes)
+W, [2019-11-21T08:26:31.192387 #30378]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 30378) alive: 3330 sec (trial 1)
+I, [2019-11-21T08:26:31.249315 #578]  INFO -- : reaped #<Process::Status: pid 30378 exit 0> worker=9
+I, [2019-11-21T08:26:31.415644 #4675]  INFO -- : worker=9 ready

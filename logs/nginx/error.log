@@ -1,0 +1,4 @@
+2019/08/20 20:23:41 [emerg] 12#12: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/oasis.loc.conf:3
+2019/08/20 20:29:31 [emerg] 9#9: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/oasis.loc.conf:3
+2019/08/20 20:55:24 [emerg] 9#9: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/oasis.loc.conf:3
+2019/08/20 21:00:51 [emerg] 9#9: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/oasis.loc.conf:3
